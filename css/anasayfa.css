@@ -1,0 +1,35 @@
+head
+{
+    color: black;
+}
+body
+{
+    background-color: black;
+}
+
+
+a
+{
+    color: #F6CB19;
+    background: black;
+    border-radius: 10%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.responsive {
+    width: 100%;
+    height: 91%;
+}
+
+table, th, td
+{
+  border-collapse: separate;
+    border-spacing:2px;
+    border-style: solid;
+    border-width: medium;
+    border-color:#F6CB19;
+    border-radius: 30%;
+    
+}
+table{background: black;}
+tr{background: black;}
